@@ -472,60 +472,283 @@
         {
           "_inherit": "gallery1",
           "_params": {
-            "fullWidth": false,
-            "noGutter": true,
+            "fullWidth": true,
+            "noGutter": false,
             "showText": true,
             "showBullets": true,
             "images": [
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/041-660x660.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/041-660x660-660x660.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/162-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/162-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2021-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2021-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2054-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2054-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2082-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2082-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2083-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2083-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3208n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3208n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3212-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3212-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3215-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3215-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3216-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3216-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3230-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3230-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3232n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3232n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3234n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3234n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3235-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3235-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3241n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3241n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3246-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3246-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3250-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3250-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3259-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3259-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3267n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3267n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3274n-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3274n-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3309-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3309-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3314-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3314-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3337-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3337-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3350-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3350-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3352-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3352-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6003-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6003-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10875-721x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10875-721x800-721x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10877-358x481.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10877-358x481-358x481.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11010-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11010-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11016-578x288.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11016-578x288-578x288.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11020-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11020-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11024-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11024-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/12001-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12001-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs002-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs002-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs004-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs004-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs007-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs007-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs010-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs010-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs012-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs012-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vs015-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vs015-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
