@@ -2,6 +2,18 @@
 
 @isPublish: true;
 
+#msg-box4-10 {
+.mbr-header__text {
+  color: #ffffff;
+}
+.mbr-header__subtext {
+  color: #ffffff;
+}
+.mbr-article {
+  color: #ffffff;
+}
+}
+
 #menu1-e {
 .navbar {
   padding: .5rem 0;
