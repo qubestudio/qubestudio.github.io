@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -1116,7 +1116,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Контакты:<br>+996 502 501 511<br>WhatsApp:<br>+996 502 501 511",
+          "text": "Контакты:<br>+996 502 501 511<br>WhatsApp:<br>+996 502 501 511<br>Расх. мат-лы: +903643110012 (\"Larton Company\")",
           "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/qube.studio.kg/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
