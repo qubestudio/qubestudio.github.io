@@ -27,7 +27,7 @@
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
